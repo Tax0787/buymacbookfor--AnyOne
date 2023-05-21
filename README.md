@@ -23,3 +23,6 @@ Release : [Emergency 1](https://github.com/Tax0787/MyHtml/releases/tag/Emergency
 
 # Praise the [`사삭이`](https://github.com/sasak2)
 she (he?) is so cute!!!!
+
+# [Download](https://github.com/Tax0787/buymacbookfor--AnyOne/tags)
+Open source is weird...
