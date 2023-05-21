@@ -5,7 +5,7 @@ I Used [MyHtml](https://github.com/Tax0787/MyHtml)
 
 It's an FW, It's work by `option.json` It's JSON file
 
-This example shows how to automatically create the original author's great repository
+This example shows how to automatically create the [original](https://github.com/sasak2/buymacbookforsasak2) [author](https://github.com/sasak2)'s great repository
 
 For `사석이`, make [buymacbookfor `AnyOne`](https://github.com/Tax0787/buymacbookfor--AnyOne) greater!!!
 
@@ -20,3 +20,6 @@ For `사석이`, make [buymacbookfor `AnyOne`](https://github.com/Tax0787/buymac
 
 # MyHtml Version
 Release : [Emergency 1](https://github.com/Tax0787/MyHtml/releases/tag/Emergency1)
+
+# Praise the [`사삭이`](https://github.com/sasak2)
+she (he?) is so cute!!!!
