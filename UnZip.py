@@ -1,2 +1,5 @@
 from zipfile import ZipFile as z
-with z
+def unzip(file : str):
+  with z(file, 'r') as f:
+    f.extractall()
+unzip('.zip')
