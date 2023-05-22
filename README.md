@@ -20,6 +20,8 @@ For `사석이`, make [buymacbookfor `AnyOne`](https://github.com/Tax0787/buymac
 
 # MyHtml Version
 Release : [Emergency 1](https://github.com/Tax0787/MyHtml/releases/tag/Emergency1)
+## Joke
+ > > > MyRepoVer : [also Example](https://github.com/Tax0787/BuyMacBookBz3)
 
 # Praise the [`사삭이`](https://github.com/sasak2)
 she (he?) is so cute!!!!
